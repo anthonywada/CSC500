@@ -1,3 +1,5 @@
+# Module 3: Creating Python Programs
+
 # Part 1
 print('Part 1:\n    Write a program that calculates the total amount of a meal purchased at a restaurant. \n\
     The program should ask the user to enter the charge for the food and then calculate the\n\
